@@ -1,1 +1,1 @@
-README file for R package stepwise. 
+A stepwise approach to identifying recombination breakpoints in a sequence alignment. 
