@@ -1,0 +1,4 @@
+export(maxchi,summary.maxchi,phylpro,summary.phylpro)
+S3method(summary,maxchi)
+S3method(summary,phylpro)
+useDynLib(stepwise)
